@@ -1,8 +1,4 @@
 
-Certainly! Below is a sample markdown file with instructions on how to use your hotel node project:
-
-markdown
-Copy code
 # Hotel Node Project API Documentation
 
 Welcome to the documentation for the Hotel Node Project API. This API provides endpoints to interact with hotel personnel and menu items.
