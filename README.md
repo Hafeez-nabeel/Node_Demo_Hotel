@@ -8,7 +8,7 @@ Copy code
 Welcome to the documentation for the Hotel Node Project API. This API provides endpoints to interact with hotel personnel and menu items.
 
 ## Base URL
-The base URL for all API endpoints is `https://your-hotel-api.com`.
+The base URL for all API endpoints is `https://nodehotel-production.up.railway.app/`.
 
 ## Endpoints
 
